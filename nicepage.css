@@ -4229,8 +4229,8 @@ ol {
   transform: rotateY(360deg) scale(1, 1);
 }
 .u-btn {
-  /*display: inline-block;*/
-  display: table;
+  display: inline-block;
+  /*display: table;
   /*TODO maye need another solution for negative marin*/
   cursor: pointer;
   color: inherit;
